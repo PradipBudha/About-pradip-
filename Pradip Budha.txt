@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="ne">
+<head>
+    <meta charset="UTF-8">
+    <title>प्रदिप बुढा | Pradip Budha</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            background-color: #f0f8ff;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #009688;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #00796b;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #004d40;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>प्रदिप बुढा</h1>
+        <h2>Pradip Budha</h2>
+    </header>
+
+    <nav>
+        <a href="#home">गृह/Home</a>
+        <a href="#about">परिचय/About</a>
+        <a href="#contact">सम्पर्क/Contact</a>
+    </nav>
+
+    <section id="home">
+        <h2>स्वागत छ!</h2>
+        <p>यो प्रदिप बुढाको आधिकारिक वेबसाइट हो।</p>
+        <p>This is the official website of Pradip Budha.</p>
+    </section>
+
+    <section id="about">
+        <h2>मेरो बारेमा/About Me</h2>
+        <p>म एक विद्यार्थी हुँ। यो वेबसाइट अध्ययन, जानकारी र सम्पर्कको लागि बनाइएको हो।</p>
+        <p>I am a student. This website is created for learning, sharing, and contact purposes.</p>
+    </section>
+
+    <section id="contact">
+        <h2>सम्पर्क विवरण/Contact Info</h2>
+        <p>फोन: 9704431008</p>
+        <p>Phone: 9864942422</p>
+    </section>
+
+    <footer>
+        <p>© 2025 प्रदिप बुढा | Pradip Budha</p>
+    </footer>
+</body>
+</html>
